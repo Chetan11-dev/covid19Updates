@@ -1,0 +1,8 @@
+linter:
+  rules:
+    - parameter_assignments
+
+analyzer:
+    missing_return: ignore
+    deprecated_member_use: ignore
+  

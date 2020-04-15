@@ -1,0 +1,65 @@
+name: covid19
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  numeral:
+  google_fonts:
+  intl: ^0.16.1
+  functional_dart: ^0.0.1
+  url_launcher:
+  dartz:
+  logger:
+  
+  hive_manager: ^0.0.1
+
+  enhanced_future_builder:
+
+  responsive_ui_by_default: ^0.0.3
+
+  self_widget: ^0.0.3
+
+  http_util: ^0.0.1
+
+  auto_route:
+
+  http:
+  rx_command:
+  search_widget:
+  fleva_icons:
+  line_icons:
+  font_awesome_flutter: ^8.7.0
+  # faker:
+  get_it:
+  flutter_animated_dialog:
+
+  # line_awesome_icons:
+  # syncfusion_flutter_charts:
+  fl_chart:
+  # flutter_neumorphic:
+  # getflutter:
+  curved_navigation_bar:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner:
+  auto_route_generator:
+  flutter_launcher_icons: "^0.7.3"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
