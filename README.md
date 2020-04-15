@@ -1,19 +1,5 @@
-# covid19
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Welcome 
+I am Chetan and I build this project to bring awareness about covid-19 and also to help other fellow devlopers learn about flutter framework.You are free to use this project in any way you desire. 
 
 ### ScreenShots
 ![Alt text](/screenshots/1.png?raw=true)
