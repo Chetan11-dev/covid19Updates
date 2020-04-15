@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ### ScreenShots
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Alt text](/screenshots/1.png?raw=true)
